@@ -14,4 +14,4 @@ A fictional financial model of Nestlé's Cash Flow statement for the years 2022 
 - <a href="https://github.com/Saniamuqthar/Nestle-Cash-Flow-Statement-Analysis/blob/main/Nestle%20CFS%20Excel%20DB.jpg">Excel Mini Dashboard</a>
 - <a href="https://github.com/Saniamuqthar/Nestle-Cash-Flow-Statement-Analysis/blob/main/Nestle%20CFS%20Power%20BI%20DB.jpg">Power BI Dashbaord</a>
 ## Author
-- <a href="https://github.com/Saniamuqthar">Auhtor</a>
+- <a href="https://github.com/Saniamuqthar">Author</a>
